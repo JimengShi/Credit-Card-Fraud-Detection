@@ -10,7 +10,9 @@ Based on the data of credit card transaction records, a classification model is 
 - Adjust logistic regression model
 - Scheme effect comparison
 
-![Workflow](https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Workflow.png)
+<div align="center">
+<img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Workflow.png" alt="Workflow" >
+</div>
 
 ## Performance
 - Class 0: normal transaction record
