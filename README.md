@@ -24,7 +24,7 @@ The performance of model is good, precision rate is 99.17%, recall rate is 99.97
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Confusion%20Matrix.png" alt="Evaluation" >
+<img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Confusion%20Matrix.png" height="300px" alt="Evaluation" >
 </div>
 
 ## How to Run
