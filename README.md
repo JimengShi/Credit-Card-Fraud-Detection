@@ -14,7 +14,7 @@ Based on the data of credit card transaction records, a classification model is 
 <img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Workflow.png" alt="Workflow" >
 </div>
 
-## Performance
+## Model Performance
 - Class 0: normal transaction record
 - Class 1: abnormal transaction record
 
@@ -23,3 +23,9 @@ Based on the data of credit card transaction records, a classification model is 
 </div>
 
 ## How to Run
+**Environment:**
+- Window 10
+- Anaconda 4.8.3, built in Jupyter Notebook, Numpy, Pandas, Matplotlib
+- Python 3.7.4 with some necessary libraries, like sklearn
+
+Because the dataset is kind of big that cann't be uploaded. Please check out the `dataset` folder and download the dataset online. Then put it in the same path with '.ipynb' file, now I believe it's okay to run the '.ipynb' file in Jupyter Notebook.
