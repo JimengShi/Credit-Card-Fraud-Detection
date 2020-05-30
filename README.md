@@ -16,11 +16,8 @@ Based on the data of credit card transaction records, a classification model is 
 - Class 0: normal transaction record
 - Class 1: abnormal transaction record
 
-### Evaluation with under-sampling
-![image1](https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20under-sampling.png)
-
-### Evaluation with under-sampling
-![image1](https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20over-sampling.png)
+<div align="center">
+<img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20under-sampling.png" height="300px" alt="Evaluation with under-sampling" ><img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20over-sampling.png" height="300px" alt="over-sampling" >    
+</div>
 
 ## How to Run
-![image](https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20over-sampling.png)
