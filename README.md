@@ -15,11 +15,16 @@ Based on the data of credit card transaction records, a classification model is 
 </div>
 
 ## Model Performance
+The performance of model is good, precision rate is 99.17%, recall rate is 99.97% and the F1 score is 0.99.
 - Class 0: normal transaction record
 - Class 1: abnormal transaction record
 
 <div align="center">
 <img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20under-sampling.png" height="300px" alt="Evaluation with under-sampling" ><img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Evaluation%20with%20over-sampling.png" height="300px" alt="over-sampling" >    
+</div>
+
+<div align="center">
+<img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Confusion%20Matrix.png" alt="Evaluation" >
 </div>
 
 ## How to Run
