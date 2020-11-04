@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection
 Based on the data of credit card transaction records, a classification model is built to predict which transaction records are abnormal and which are normal.
 
-## Task Flow
+## Task Flow:
 - Load the data and observe the problem
 - Provide solutions to problems
 - Build logistic regression model
@@ -14,7 +14,7 @@ Based on the data of credit card transaction records, a classification model is 
 <img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Workflow.png" alt="Workflow" >
 </div>
 
-## Model Performance
+## Model Performance:
 The performance of model is good, precision rate is 99.17%, recall rate is 99.97% and the F1 score is 0.99.
 - Class 0: normal transaction record
 - Class 1: abnormal transaction record
@@ -29,7 +29,7 @@ The performance of model is good, precision rate is 99.17%, recall rate is 99.97
 <img src="https://github.com/JimengShi/Credit-Card-Fraud-Detection/blob/master/images/Confusion%20Matrix.png" height="300px" alt="Evaluation" >
 </div>
 
-## How to Run
+## How to Run:
 **Environment:**
 - Window 10
 - Anaconda 4.8.3, built in Jupyter Notebook, Numpy, Pandas, Matplotlib
